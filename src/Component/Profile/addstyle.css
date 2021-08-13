@@ -1,0 +1,9 @@
+.Myadd{
+    background-color: white;
+    width: 50%;
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
